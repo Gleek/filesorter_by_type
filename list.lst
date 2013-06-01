@@ -1,0 +1,7 @@
+Application = rpm exe deb 
+Videos = mp4 flv webm 
+Sound = mp3 rm ogg 
+Images = jpg gif png svg bmp tiff jpeg
+Programs = sh c cpp py java class 
+Compressed = zip gz bz2 rar 
+Documents = pdf doc docx odt ppt pptx xls xlsx djvu 
